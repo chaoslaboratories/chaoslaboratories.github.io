@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>//chaos-labs.tech/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="//chaos-labs.tech/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//chaos-labs.tech/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>//chaos-labs.tech/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="//chaos-labs.tech/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//chaos-labs.tech/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>//chaos-labs.tech/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="//chaos-labs.tech/zh/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//chaos-labs.tech/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>//chaos-labs.tech/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="//chaos-labs.tech/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//chaos-labs.tech/en/tags/"
+                />
+  </url>
+  
+</urlset>
